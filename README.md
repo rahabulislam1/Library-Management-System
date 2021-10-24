@@ -1,3 +1,3 @@
 # Library-Management-System
 
-*  IoT-based-Home-Automation-using-LoRa
+*  An android app to manage library and support QR code.
